@@ -1,0 +1,9 @@
+{
+    "loginUrl": "https://web-client-staging-t748z32a.weareindy.com/app/",
+    "users":{
+        "user1":{
+            "Email": "andrei.kaliasinski+auto@tispr.com",
+            "Password": "NAozuQqp10"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "devDependencies": {
+        "install": "^0.13.0",
+        "jest": "^26.6.3",
+        "jest-circus": "^26.6.3",
+        "jest-html-reporters": "^2.1.2",
+        "jest-playwright-preset": "^1.6.0",
+        "npm": "^7.11.2",
+        "playwright": "^1.11.1"
+    },
+    "scripts": {
+        "test": "jest",
+        "test2": "jest UserCanLogin.spec.js",
+        "test.watch": "jest --watchAll"
+    }
+}
