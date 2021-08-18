@@ -8,3 +8,7 @@ npm install jest-playwright-preset
 npm install jest-html-reporters
 
 npm install jest-circus
+
+Tor run tests:
+
+jest
